@@ -1,4 +1,4 @@
-# A-Physics-Guided-Health-Indicator-Framework-Using-Vibration-Analysis
+# Project on A-Physics-Guided-Health-Indicator-Framework-Using-Vibration-Analysis
 A Physics-Guided Health Indicator Framework Using Vibration Analysis for Material State Identification and Transition Monitoring in Drilling
 
 1. Developed a physics-guided health indicator framework for material identification, drilling bearing defect tracking, and drilling transition monitoring using vibration signals.
